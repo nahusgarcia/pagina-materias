@@ -1,2 +1,2 @@
 # pagina-materias
-pagina con materias de bachille
+pagina con materias de bachiller
